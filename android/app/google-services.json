@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "443831924586",
+    "project_id": "notesify-1f271",
+    "storage_bucket": "notesify-1f271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443831924586:android:93f84c59183b51ad5fd713",
+        "android_client_info": {
+          "package_name": "com.Notesify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443831924586-f5orlt3id0rj2ctnkhmqa3a1fi6nnpld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kTpflqbQmfrOQ7yNLuuqaCoX6ya8c18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443831924586-f5orlt3id0rj2ctnkhmqa3a1fi6nnpld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443831924586-uat7sv106j36f093m6nteoifbqj6071i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Notesify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
